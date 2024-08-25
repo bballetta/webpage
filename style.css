@@ -1,0 +1,50 @@
+.header {
+    display: flex;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero {
+    background-color: #1F2937;
+}
+
+.hero .text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero .subtext {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.content .text {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote .text {
+    font-size: 36px;
+    font-style: italic;
+    color: 1F2937;
+}
+
+.footer {
+    background-color: #3882F6;
+}
+
+img {
+    width: 75px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+}
